@@ -1,3 +1,4 @@
 com\junitdemo\AAATest.class
-com\junitdemo\CalculatorTest.class
 com\junitdemo\AssertionsTest.class
+com\junitdemo\MyServiceTest.class
+com\junitdemo\CalculatorTest.class
